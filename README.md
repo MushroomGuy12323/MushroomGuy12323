@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MushroomGuy12323
-- 👀 I’m interested in lua
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me anthonykarczewski7@gmail.com
+steam deck decky web browser doesent work so i have to access google from github via "View Readme"
 
-<!---
-MushroomGuy12323/MushroomGuy12323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[goggle](https://google.com)
